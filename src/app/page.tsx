@@ -7,6 +7,7 @@ import MenuSection from '@/components/MenuSection';
 import ServicesSection from '@/components/ServicesSection';
 import GallerySection from '@/components/GallerySection';
 import BookingSection from '@/components/BookingSection';
+import ContactSection from '@/components/ContactSection';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <ServicesSection />
         <GallerySection />
         <BookingSection />
+        <ContactSection />
       </main>
     </>
   );
