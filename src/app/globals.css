@@ -19,6 +19,8 @@
   --animation-speed: 0.6s;
 
   --font-playful: 'Rubik', 'Heebo', sans-serif;
+
+  --animation-duration: 0.5s;
 }
 
     html {
