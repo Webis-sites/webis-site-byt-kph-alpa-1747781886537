@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-05-20T22:58:30.627Z",
+  "timestamp": "2025-05-20T22:59:17.706Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with the café name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Engaging hero section showcasing the café's atmosphere with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the café's history, values and expertise"
+    },
+    {
+      "name": "MenuSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Interactive menu showcasing the café's food and beverage offerings"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting special services offered by the café"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual showcase of the café's atmosphere, food, and events"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking system for table reservations"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and location map for the café"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "social-proof",
+      "status": "pending",
+      "description": "Customer reviews and ratings showcasing positive experiences"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Page footer with copyright, links, and additional information"
+    }
+  ],
   "repoName": "webis-site-byt-kph-alpa-1747781886537"
 }
