@@ -21,6 +21,8 @@
   --font-playful: 'Rubik', 'Heebo', sans-serif;
 
   --animation-duration: 0.5s;
+
+  --rtl-direction: rtl;
 }
 
     html {
