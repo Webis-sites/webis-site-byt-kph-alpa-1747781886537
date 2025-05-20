@@ -1,0 +1,7 @@
+
+    # robots.txt for בית קפה אלפא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://בית-קפה-אלפא.com/sitemap.xml
