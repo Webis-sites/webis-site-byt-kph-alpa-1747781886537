@@ -1,8 +1,11 @@
 {
-  "projectName": "בית-קפה-אלפא-1886",
-  "businessName": "בית קפה אלפא",
-  "created": "2025-05-20T22:58:07.432Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-20T22:58:30.627Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-byt-kph-alpa-1747781886537"
 }
